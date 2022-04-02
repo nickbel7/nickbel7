@@ -17,6 +17,31 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickbel7&hide=jupyter%20notebook&langs_count=10&layout=compact&exclude_repo=ntua-operating-systems
 )](https://github.com/nickbel7/github-readme-stats)
 
+<!--
+<h2 align="left">Languages and Tools:</h2>
+<h4> Languages </h4>
+<p align="left">
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/dart.png"/>
+<img width="30" src="https://smlnj.org/images/smlnj-logo.png"/>
+<img width="30" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png"/>
+<img width="30" src="https://mohammadijoo.ir/image/Assembly-logo.png"/>
+</p> 
+<h4> Full Stack </h4>
+<h4> Mobile </h4>
+<img width="30" src="https://img.icons8.com/color/48/000000/flutter.png"/>
+
+<h4> General </h4>
+
+-->
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

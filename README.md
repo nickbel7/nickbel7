@@ -56,6 +56,13 @@ Here are some ideas to get you started:
 <h4> Mobile </h4>
 <img width="30" src="https://img.icons8.com/color/48/000000/flutter.png"/>
 
+<h4> Cloud </h4>
+<p align="left">
+<img width="30" src="https://img.icons8.com/fluency/48/000000/docker.png"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
+<img width="30" src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans.png"/>
+</p>
+
 <h4> Other </h4>
 <p align="left">
 <img width="30" src="https://img.icons8.com/color/48/000000/git.png"/>
@@ -65,7 +72,4 @@ Here are some ideas to get you started:
 <img width="30" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
 <img width="30" src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.png"/>
 <img width="30" src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
-<img width="30" src="https://img.icons8.com/fluency/48/000000/docker.png"/>
-<img width="30" src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
-<img width="30" src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans.png"/>
 </p>

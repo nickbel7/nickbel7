@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 <h4> Other </h4>
 <p align="left">
 <img width="30" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img width="30" src="https://img.icons8.com/fluency/48/000000/arduino.png"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/notion--v1.png"/>
 <img width="30" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 <img width="30" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
 <img width="30" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
 <img width="30" src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.png"/>
 <img width="30" src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
-<img width="30" src="https://img.icons8.com/color/48/000000/notion--v1.png"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/bash.png"/>
 </p>

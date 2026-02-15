@@ -1,6 +1,6 @@
 # hey, i'm Nikos 👋
 
-research engineer @ [MIT Media Lab](https://www.media.mit.edu/) doing BCI things • co-founder @ [CALT](https://github.com/nickbel7) making culture less boring • ex-[arrikto](https://github.com/arrikto) where i learned kubernetes is just yaml all the way down
+research engineer @ [MIT Media Lab](https://www.media.mit.edu/) doing BCI things • co-founder @ [CALT](https://calt.gr) making culture less boring • ex-[arrikto](https://github.com/arrikto) where i learned kubernetes is just yaml all the way down
 
 MEng from NTUA where i spent 5 years convincing professors that "works on my laptop" counts as distributed systems
 

@@ -1,4 +1,4 @@
-# hey, i'm nick 👋
+# hey, i'm Nikos 👋
 
 research engineer @ [MIT Media Lab](https://www.media.mit.edu/) doing BCI things • co-founder @ [CALT](https://github.com/nickbel7) making culture less boring • ex-[arrikto](https://github.com/arrikto) where i learned kubernetes is just yaml all the way down
 

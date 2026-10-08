@@ -22,6 +22,6 @@ Good software should feel obvious. If you need a manual, I either failed or you 
 
 ## Find me
 
-🌐 [nikos-bellos.notion.site](https://nikos-bellos.notion.site/Hey-I-m-Nikos-Bellos-15079f7637d280968bf9ef47fc4d3c40) for projects and CV
+🌐 [nikosbellos.com](https://nikosbellos.com) for projects and CV
 
 📍 Athens → Barcelona → Boston, collecting airports and time zones

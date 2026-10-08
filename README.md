@@ -1,28 +1,27 @@
-# hey, i'm Nikos 👋
+# Hey, I'm Nikos 👋🏻
 
-research engineer @ [MIT Media Lab](https://www.media.mit.edu/) doing BCI things • co-founder @ [CALT](https://calt.gr) making culture less boring • ex-[arrikto](https://github.com/arrikto) where i learned kubernetes is just yaml all the way down
+Greek engineer and designer. Yes, I will eventually bring up the food, the weather and how things were better back in Athens.
 
-MEng from NTUA where i spent 5 years convincing professors that "works on my laptop" counts as distributed systems
+I build **ambient, personalized AI products** that respect how people actually think, which is more than I can say for most of my browser tabs.
 
-## currently
+## What I'm up to
 
-- 🧠 migrating NeuroChat from firebase to something that scales (narrator: *it's complicated*)
-- 🎭 building a cultural events recommender that actually understands you're not into jazz (yet)
-- ⚡ making IoT systems process energy data in real-time because someone has to save the planet
-- 🎓 supervising undergrads on their thesis, which is 70% debugging, 30% existential crisis
+- 🧪 **Visiting student researcher** at [MIT Media Lab](https://www.media.mit.edu/) (Cyborg Psychology group), working on Personal Intelligence. Yes, the AI is supposed to be the smart one here.
+- 👨🏻‍🎨 **Product design & development** at [CALT](https://www.calt.gr/), a social recommender app for discovering cultural events, because "what should we do this weekend?" deserves a better answer than "I don't know, what do you want to do?"
+- 🎓 Second Master's at **Elisava** (Barcelona) in Human & AI Interaction. Two engineering degrees weren't enough, apparently.
 
-## in a parallel universe i'm
+## Where I'm coming from
 
-📸 a professional photographer • 🏃 actually consistent at running • 🎙️ hosting a podcast called "that's nuts" • 🏄 surfing instead of debugging • 🎬 running open-air cinema screenings
+- 🏛️ BSc + MEng in ECE at **NTUA**, majoring in Software Engineering
+- 🛠️ Scalable systems on one side, UI/UX on the other, and a constant effort to keep them on speaking terms
+- 🔭 Rabbit holes of choice: IoT, cognitive science, social networks, personalization and AI
 
-## tech i use without crying
+## Philosophy
 
-python • flutter • kubernetes • figma • postgres • the entire alphabet soup of modern web dev
+Good software should feel obvious. If you need a manual, I either failed or you are reading this README. Both are possible.
 
-*(most of my public github repos are old student projects, don't judge me)*
+## Find me
 
----
+🌐 [nikos-bellos.notion.site](https://nikos-bellos.notion.site/Hey-I-m-Nikos-Bellos-15079f7637d280968bf9ef47fc4d3c40) for projects and CV
 
-find me on [linkedin](https://www.linkedin.com/in/nikos-bellos/) • check out [nikosbellos.com](https://nikosbellos.com) • email: nikolas.bellos@gmail.com
-
-*"i'm not saying it's a bug, i'm saying it's an undocumented feature"*
+📍 Athens → Barcelona → Boston, collecting airports and time zones
